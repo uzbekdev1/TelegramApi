@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramApi.Client", "TelegramApi.Client\TelegramApi.Client.csproj", "{75B843DE-D541-4A84-99B6-ACFF427C60DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B843DE-D541-4A84-99B6-ACFF427C60DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B843DE-D541-4A84-99B6-ACFF427C60DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B843DE-D541-4A84-99B6-ACFF427C60DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B843DE-D541-4A84-99B6-ACFF427C60DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DE7581-81BA-45D4-A557-F67A99223D42}
+	EndGlobalSection
+EndGlobal
